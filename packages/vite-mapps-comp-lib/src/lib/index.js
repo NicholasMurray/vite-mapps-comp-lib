@@ -1,3 +1,5 @@
+import './../styles/index.scss'
+
 export { Alert } from './alert/Alert';
 export { BackLink } from './back-link/BackLink';
 export { Breadcrumbs } from './breadcrumbs/Breadcrumbs';
