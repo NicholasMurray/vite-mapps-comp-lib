@@ -1,0 +1,59 @@
+export const numbersTableData = {
+  caption: 'Months and rates',
+  captionClasses: 'govuk-table__caption--m',
+  firstCellIsHeader: true,
+  head: [
+    {
+      text: 'Month you apply'
+    },
+    {
+      text: 'Rate for bicycles',
+      format: 'numeric'
+    },
+    {
+      text: 'Rate for vehicles',
+      format: 'numeric'
+    }
+  ],
+  rows: [
+    [
+      {
+        text: 'January'
+      },
+      {
+        text: '£85',
+        format: 'numeric'
+      },
+      {
+        text: '£95',
+        format: 'numeric'
+      }
+    ],
+    [
+      {
+        text: 'February'
+      },
+      {
+        text: '£75',
+        format: 'numeric'
+      },
+      {
+        text: '£55',
+        format: 'numeric'
+      }
+    ],
+    [
+      {
+        text: 'March'
+      },
+      {
+        text: '£165',
+        format: 'numeric'
+      },
+      {
+        text: '£125',
+        format: 'numeric'
+      }
+    ]
+  ]
+};

@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "vite-mapps-comp-lib": {
+      "signature": "6f833968e67ea0b218b359fd3638fa48",
+      "file": true
+    }
+  }
+}

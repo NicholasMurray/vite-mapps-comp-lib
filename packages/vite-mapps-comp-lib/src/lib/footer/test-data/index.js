@@ -1,0 +1,1 @@
+export { footerNavigationData } from './footerNavigationData';

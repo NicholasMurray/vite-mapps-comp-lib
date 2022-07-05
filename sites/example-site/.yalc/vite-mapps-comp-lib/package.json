@@ -1,0 +1,33 @@
+{
+  "name": "vite-mapps-comp-lib",
+  "private": true,
+  "version": "0.0.0",
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lodash.debounce": "^4.0.8",
+    "prop-types": "^15.8.1",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "peerdependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/vite-mapps-comp-lib.umd.js",
+  "module": "./dist/vite-mapps-comp-lib.es.js",
+  "exports": {
+    ".": {
+      "import": "./dist/vite-mapps-comp-lib.es.js",
+      "require": "./dist/vite-mapps-comp-lib.umd.js"
+    }
+  },
+  "yalcSig": "6f833968e67ea0b218b359fd3638fa48"
+}

@@ -1,0 +1,21 @@
+// Set font-family as per design
+// One of:
+// "GDS Transport",arial,sans-serif 
+// "Roboto","Arial",sans-serif
+body, html {
+  font-family: "Roboto","Arial",sans-serif;
+}
+
+@import "govuk-frontend/govuk/all";
+@import "@hods/sass-base/src/index";
+@import "@hods/alert/assets/Alert";
+@import "@hods/footer/assets/Footer";
+@import "@hods/header/assets/Header";
+@import "@ministryofjustice/frontend/moj/all";
+
+// @import "./../../node_modules/govuk-frontend/govuk/all.scss";
+// @import "./../../node_modules/@hods/sass-base/src/index";
+// @import "./../../node_modules/@hods/alert/assets/Alert";
+// @import "./../../node_modules/@hods/footer/assets/Footer";
+// @import "./../../node_modules/@hods/header/assets/Header";
+// @import "./../../node_modules/@ministryofjustice/frontend/moj/all";
