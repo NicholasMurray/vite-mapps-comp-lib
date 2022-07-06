@@ -132,12 +132,12 @@ import { Alert, Button, Panel } from 'mapps-component-library';
 
 ## Styles, Fonts and Images
 
-Because MAPPS Component Library uses .GOV.UK, HO and MOJ styling and class names, 
-we don't ship with any included CSS. However stylesheets are required to use 
-these components.
+### Combined Pattern Library styles
+As MAPPS Component Library uses .GOV.UK, HO and MOJ styling and class names, 
+we ship a CSS file style.css which contains all the pattern library styles combined. 
 
 ### SCSS
-The easiest way to include component styles to your application
+The easiest way to include required component styles to your application
 
 #### Install GOV.UK, HOds and MoJ npm packages as required
 ``` 
@@ -148,13 +148,21 @@ npm install @ministryofjustice/frontend --save
 
 #### Import GOV.UK, HOds and MoJ SCSS files as required
 ```
-@import "node_modules/govuk-frontend/govuk/all";
-@import "node_modules/@hods/alert/assets/Alert";
-@import "node_modules/@ministryofjustice/frontend/moj/all";
+@import "govuk-frontend/govuk/all";
+@import "@hods/sass-base/src/index";
+@import "@hods/alert/assets/Alert";
+@import "@hods/footer/assets/Footer";
+@import "@hods/header/assets/Header";
+@import "@ministryofjustice/frontend/moj/all";
 ```
 
 ### Fonts and Images
 
+### Combined Pattern Libraries Fonts and Images
+As MAPPS Component Library uses .GOV.UK, HO and MOJ assets we ship an assets folder
+which contains all the pattern library assets combined in one assets folder.
+
+### Fonts and Images individual installation
 Copy the contents of relevent assets folders to your apps assets folder
 ```
 /node_modules/govuk-frontend/govuk/assets/images folder to <YOUR-APP>/assets/images
