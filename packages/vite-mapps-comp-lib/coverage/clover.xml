@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1657117739585" clover="3.2.0">
+  <project timestamp="1657117739585" name="All files">
+    <metrics statements="156" coveredstatements="152" conditionals="218" coveredconditionals="217" methods="63" coveredmethods="59" elements="437" coveredelements="428" complexity="0" loc="156" ncloc="156" packages="23" files="24" classes="24"/>
+    <package name="src">
+      <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="App.jsx" path="C:\Users\MurrayN\Documents\GitHub\vite\packages\vite-mapps-comp-lib\src\App.jsx">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+      </file>
+      <file name="main.jsx" path="C:\Users\MurrayN\Documents\GitHub\vite\packages\vite-mapps-comp-lib\src\main.jsx">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="6" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.lib.accordion">
+      <metrics statements="21" coveredstatements="21" conditionals="30" coveredconditionals="30" methods="8" coveredmethods="8"/>
+      <file name="Accordion.jsx" path="C:\Users\MurrayN\Documents\GitHub\vite\packages\vite-mapps-comp-lib\src\lib\accordion\Accordion.jsx">
+        <metrics statements="21" coveredstatements="21" conditionals="30" coveredconditionals="30" methods="8" coveredmethods="8"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="11" count="14" type="stmt"/>
+        <line num="12" count="56" type="cond" truecount="2" falsecount="0"/>
+        <line num="14" count="14" type="stmt"/>
+        <line num="15" count="14" type="stmt"/>
+        <line num="16" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="24" count="14" type="stmt"/>
+        <line num="25" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="4" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="34" count="14" type="stmt"/>
+        <line num="56" count="56" type="stmt"/>
+        <line num="57" count="56" type="stmt"/>
+        <line num="68" count="4" type="stmt"/>
+        <line num="134" count="1" type="stmt"/>
+        <line num="149" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.lib.alert">
+      <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <file name="Alert.jsx" path="C:\Users\MurrayN\Documents\GitHub\vite\packages\vite-mapps-comp-lib\src\lib\alert\Alert.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.lib.back-link">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="BackLink.jsx" path="C:\Users\MurrayN\Documents\GitHub\vite\packages\vite-mapps-comp-lib\src\lib\back-link\BackLink.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.lib.breadcrumbs">
+      <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <file name="Breadcrumbs.jsx" path="C:\Users\MurrayN\Documents\GitHub\vite\packages\vite-mapps-comp-lib\src\lib\breadcrumbs\Breadcrumbs.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="13" count="11" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.lib.button">
+      <metrics statements="23" coveredstatements="23" conditionals="28" coveredconditionals="28" methods="9" coveredmethods="8"/>
+      <file name="Button.jsx" path="C:\Users\MurrayN\Documents\GitHub\vite\packages\vite-mapps-comp-lib\src\lib\button\Button.jsx">
+        <metrics statements="23" coveredstatements="23" conditionals="28" coveredconditionals="28" methods="9" coveredmethods="8"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="22" type="cond" truecount="4" falsecount="0"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="17" count="17" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="22" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="26" count="22" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="30" count="22" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="48" count="22" type="cond" truecount="4" falsecount="0"/>
+        <line num="50" count="22" type="stmt"/>
+        <line num="51" count="22" type="cond" truecount="2" falsecount="0"/>
+        <line num="56" count="22" type="stmt"/>
+        <line num="57" count="22" type="stmt"/>
+        <line num="58" count="22" type="stmt"/>
+        <line num="62" count="22" type="stmt"/>
+        <line num="80" count="2" type="stmt"/>
+        <line num="97" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.lib.button-group">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="ButtonGroup.jsx" path="C:\Users\MurrayN\Documents\GitHub\vite\packages\vite-mapps-comp-lib\src\lib\button-group\ButtonGroup.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.lib.error-message">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="ErrorMessage.jsx" path="C:\Users\MurrayN\Documents\GitHub\vite\packages\vite-mapps-comp-lib\src\lib\error-message\ErrorMessage.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.lib.error-summary">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="ErrorSummary.jsx" path="C:\Users\MurrayN\Documents\GitHub\vite\packages\vite-mapps-comp-lib\src\lib\error-summary\ErrorSummary.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="20" count="4" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.lib.footer">
+      <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <file name="Footer.jsx" path="C:\Users\MurrayN\Documents\GitHub\vite\packages\vite-mapps-comp-lib\src\lib\footer\Footer.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="22" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.lib.header">
+      <metrics statements="5" coveredstatements="5" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+      <file name="Header.jsx" path="C:\Users\MurrayN\Documents\GitHub\vite\packages\vite-mapps-comp-lib\src\lib\header\Header.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="57" count="4" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="92" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.lib.hint">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="Hint.jsx" path="C:\Users\MurrayN\Documents\GitHub\vite\packages\vite-mapps-comp-lib\src\lib\hint\Hint.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="9" count="44" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.lib.icons.arrow">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Arrow.jsx" path="C:\Users\MurrayN\Documents\GitHub\vite\packages\vite-mapps-comp-lib\src\lib\icons\arrow\Arrow.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.lib.icons.minus">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Minus.jsx" path="C:\Users\MurrayN\Documents\GitHub\vite\packages\vite-mapps-comp-lib\src\lib\icons\minus\Minus.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.lib.icons.plus">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Plus.jsx" path="C:\Users\MurrayN\Documents\GitHub\vite\packages\vite-mapps-comp-lib\src\lib\icons\plus\Plus.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="14" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.lib.pagination">
+      <metrics statements="5" coveredstatements="5" conditionals="24" coveredconditionals="24" methods="2" coveredmethods="2"/>
+      <file name="Pagination.jsx" path="C:\Users\MurrayN\Documents\GitHub\vite\packages\vite-mapps-comp-lib\src\lib\pagination\Pagination.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="24" coveredconditionals="24" methods="2" coveredmethods="2"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="23" count="21" type="stmt"/>
+        <line num="70" count="1" type="stmt"/>
+        <line num="95" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.lib.panel">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Panel.jsx" path="C:\Users\MurrayN\Documents\GitHub\vite\packages\vite-mapps-comp-lib\src\lib\panel\Panel.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.lib.radios">
+      <metrics statements="8" coveredstatements="8" conditionals="36" coveredconditionals="36" methods="3" coveredmethods="3"/>
+      <file name="Radios.jsx" path="C:\Users\MurrayN\Documents\GitHub\vite\packages\vite-mapps-comp-lib\src\lib\radios\Radios.jsx">
+        <metrics statements="8" coveredstatements="8" conditionals="36" coveredconditionals="36" methods="3" coveredmethods="3"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="15" count="11" type="stmt"/>
+        <line num="16" count="11" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="20" count="11" type="stmt"/>
+        <line num="54" count="39" type="cond" truecount="2" falsecount="0"/>
+        <line num="96" count="1" type="stmt"/>
+        <line num="132" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.lib.radios.radio">
+      <metrics statements="4" coveredstatements="4" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1"/>
+      <file name="Radio.jsx" path="C:\Users\MurrayN\Documents\GitHub\vite\packages\vite-mapps-comp-lib\src\lib\radios\radio\Radio.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="17" count="38" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="71" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.lib.side-navigation">
+      <metrics statements="5" coveredstatements="5" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+      <file name="SideNavigation.jsx" path="C:\Users\MurrayN\Documents\GitHub\vite\packages\vite-mapps-comp-lib\src\lib\side-navigation\SideNavigation.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.lib.sortable-table">
+      <metrics statements="25" coveredstatements="25" conditionals="28" coveredconditionals="27" methods="12" coveredmethods="12"/>
+      <file name="SortableTable.jsx" path="C:\Users\MurrayN\Documents\GitHub\vite\packages\vite-mapps-comp-lib\src\lib\sortable-table\SortableTable.jsx">
+        <metrics statements="25" coveredstatements="25" conditionals="28" coveredconditionals="27" methods="12" coveredmethods="12"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="12" type="stmt"/>
+        <line num="8" count="12" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="12" count="12" type="stmt"/>
+        <line num="13" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="14" count="55" type="stmt"/>
+        <line num="16" count="26" type="cond" truecount="2" falsecount="0"/>
+        <line num="19" count="12" type="stmt"/>
+        <line num="20" count="6" type="stmt"/>
+        <line num="23" count="27" type="stmt"/>
+        <line num="24" count="27" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="27" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="33" count="21" type="stmt"/>
+        <line num="35" count="27" type="stmt"/>
+        <line num="43" count="12" type="stmt"/>
+        <line num="49" count="40" type="stmt"/>
+        <line num="58" count="6" type="stmt"/>
+        <line num="76" count="75" type="stmt"/>
+        <line num="78" count="340" type="stmt"/>
+        <line num="93" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.lib.sub-navigation">
+      <metrics statements="5" coveredstatements="5" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+      <file name="SubNavigation.jsx" path="C:\Users\MurrayN\Documents\GitHub\vite\packages\vite-mapps-comp-lib\src\lib\sub-navigation\SubNavigation.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.lib.table">
+      <metrics statements="6" coveredstatements="6" conditionals="20" coveredconditionals="20" methods="4" coveredmethods="4"/>
+      <file name="Table.jsx" path="C:\Users\MurrayN\Documents\GitHub\vite\packages\vite-mapps-comp-lib\src\lib\table\Table.jsx">
+        <metrics statements="6" coveredstatements="6" conditionals="20" coveredconditionals="20" methods="4" coveredmethods="4"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="12" count="7" type="stmt"/>
+        <line num="25" count="16" type="stmt"/>
+        <line num="42" count="21" type="stmt"/>
+        <line num="44" count="48" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
