@@ -1,4 +1,4 @@
-import './../styles/index.scss'
+import './../styles/index.scss';
 
 export { Alert } from './alert/Alert';
 export { BackLink } from './back-link/BackLink';
